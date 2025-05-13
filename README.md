@@ -24,9 +24,12 @@ Pickle (for saving preprocessed data)
 
 📦 Files in This Repository
 File / Folder	Description
+
 app.py - 	Main Streamlit application file
+
 movie-dict.pkl	- Pickled dictionary of movie metadata
+
 similarity.pkl	- Pickled similarity matrix (cosine similarity)
+
 README.md -	Project documentation
-requirements.txt -	List of dependencies to run the app
 
